@@ -1,0 +1,15 @@
+
+.align{
+    text-align: center;
+    margin-top: 30px;
+}
+.col-md-4{
+    position: relative;
+}
+.col-md-4 img{
+    object-fit: contain;height: 400px;width: 100%;
+}
+.text-center{
+    background-color: darkgreen;width: 100%;color: white;
+}
+
